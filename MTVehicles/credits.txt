@@ -1,0 +1,30 @@
+List of people who contributed to MTVehicles:
+---------------------------------------------
+
+CODE CONTRIBUTORS:
+- Nikd0 (https://github.com/Zettovec)
+- GomorrhaDev (https://github.com/GomorrhaDev)
+- Tiakin (https://github.com/Tiakin)
+- Joep (https://github.com/GamerJoep)
+- Jeffrey (https://github.com/Jeffrey-H)
+- Jazzkuh (https://github.com/Jazzkuh)
+- Aaron (https://github.com/duranaaron)
+- Manuel P. (https://github.com/Mr-EmPee)
+- Bluebotlabz (https://github.com/Bluebotlabz)
+- Djorr (https://github.com/Djorr)
+
+TRANSLATORS:
+- Czech: Nikd0
+- German: Mo1810
+- Spanish: Randall_Rut
+- Chinese: xiaoyueyoQvQ & Kinboise
+- Turkish: ꋖꌅꋰꌅomerturkyᴱˑᴶ, bnWez
+- Japanese: kazumasa200
+- Hebrew: roi
+- Russian: peck1
+- French: Alane38
+- Thai: AungS8430
+- Greek: DevProdj
+
+RESOURCE PACK:
+- Boats: sebxter
